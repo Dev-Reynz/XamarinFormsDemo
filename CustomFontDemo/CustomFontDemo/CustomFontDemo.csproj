@@ -38,6 +38,9 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="CustomFont\GermanicaFontLabel.cs" />
+    <Compile Include="CustomFont\MuseoFontLabel.cs" />
+    <Compile Include="CustomFont\SketchFontLabel.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>

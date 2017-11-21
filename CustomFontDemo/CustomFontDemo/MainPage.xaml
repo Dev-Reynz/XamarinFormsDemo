@@ -1,11 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:CustomFontDemo"
-             x:Class="CustomFontDemo.MainPage">
-
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+             xmlns:customFont="clr-namespace:CustomFontDemo.CustomFont;assembly=CustomFontDemo"
+             x:Class="CustomFontDemo.MainPage"
+             Title="Custom Font Demo">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="DemoFontStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="25" />
+                <Setter Property="HorizontalTextAlignment" Value="Center" />
+                <Setter Property="VerticalTextAlignment" Value="Center" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <StackLayout Padding="20,5" VerticalOptions="Center">
+        <Label Text="Default Font" Style="{StaticResource DemoFontStyle}"/>
+        <customFont:MuseoFontLabel Text="Museo Font" Style="{StaticResource DemoFontStyle}"/>
+        <customFont:SketchFontLabel Text="Sketch Font" Style="{StaticResource DemoFontStyle}"/>
+        <customFont:GermanicaFontLabel Text="Germanica Font" Style="{StaticResource DemoFontStyle}"/>
+    </StackLayout>
 </ContentPage>

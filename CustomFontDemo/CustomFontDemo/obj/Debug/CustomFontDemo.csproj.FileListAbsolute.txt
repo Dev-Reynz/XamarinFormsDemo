@@ -1,0 +1,16 @@
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\CustomFontDemo.dll
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\CustomFontDemo.pdb
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Core.dll
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Platform.dll
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Core.pdb
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Core.xml
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.csprojResolveAssemblyReference.cache
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.csproj.CoreCompileInputs.cache
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.MainPage.xaml.g.cs
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.App.xaml.g.cs
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.dll
+E:\___Github.Dev-Reynz.Repo\XamarinForms\CustomFontDemo\CustomFontDemo\CustomFontDemo\CustomFontDemo\obj\Debug\CustomFontDemo.pdb
